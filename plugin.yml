@@ -1,0 +1,8 @@
+name: FirstPlugin
+main: me.cowteal.FirstPlugin.Main
+version: 69
+author: cowteal
+
+commands:
+    cowteal:
+        description: Try It Yourself And Find Out!
